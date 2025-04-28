@@ -19,8 +19,8 @@
 <br />
 
 ### Projects
-- [littleC Interpreter](https://github.com/gocando/littleC) 
-- [Minesweeper Game](https://github.com/gocando/minesweeper)
+[littleC Interpreter](https://github.com/OnStarPrograms/littlec) 
+
 
 
 
